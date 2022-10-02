@@ -2,7 +2,7 @@
 
 spesial buat tahun 2023
 
-aku tambahin alarm 
+aku tambahin alarm untuk ingatin kalian semua
 
 # Bissmillah
 
