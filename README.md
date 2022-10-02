@@ -1,4 +1,4 @@
-# Rilis Jadwal Sholat v.1.3
+# Rilis Jadwal RAMADHAN 1444 H v.1.3
 
 spesial buat tahun 2023
 
