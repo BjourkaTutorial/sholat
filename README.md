@@ -32,7 +32,7 @@ $pkg update && pkg upgrade
 
 $pkg install python git mpv
 
-$git clone https://github.com/karjok/sholat
+$git clone https://github.com/BjourkaTutorial/sholat
 
 $cd sholat
 
@@ -44,4 +44,4 @@ $python run.py
 
 # Kontak
 
-- 088271523532
+- vertonix11@gmail.com
