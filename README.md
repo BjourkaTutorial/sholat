@@ -1,8 +1,7 @@
 # Rilis Jadwal SHALAT v1.3
 
 spesial buat tahun 2023
-
-aku tambahin alarm untuk ingatin kalian semua
+Gw tambahin alarm untuk ingatin kalian semua
 
 # Bissmillah
 
