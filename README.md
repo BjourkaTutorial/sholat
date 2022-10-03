@@ -31,7 +31,15 @@ harap perhatikan besar kecilnya huruf, dan tanda baca.
 
 $pkg update && pkg upgrade
 
-$pkg install python git mpv
+$pkg install python git mpv 
+
+$pip install requests 
+
+$pip install bs4 
+
+$pip install lolcat 
+
+$pip install toilet 
 
 $git clone https://github.com/BjourkaTutorial/sholat
 
