@@ -2,6 +2,7 @@
 
 spesial buat tahun 2023
 Gw tambahin alarm untuk ingatin kalian semua
+<img src="https://www.upload.ee/image/14549376/Screenshot_20221003-095544_Termux.jpg" width="200" hight="220">
 
 # Bissmillah
 
