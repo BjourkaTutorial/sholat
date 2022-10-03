@@ -10,13 +10,13 @@ Gw tambahin alarm untuk ingatin kalian semua
 
 Alhamdulillah semuanya...</br>
 
-aku udah selesai bikin tool yg insyaallah bisa ngingetin kalian pas waktu solat udah tiba..</br>
+aku udah selesai bikin tool yg insyaallah bisa ngingetin kalian pas waktu solat udah tiba..
 
-biar kalian cepetan sholat, jadi kalian nggak telat lagi sholatnya ðŸ˜Š.</br>
+biar kalian cepetan sholat, jadi kalian nggak telat lagi sholatnya 😁
 
-dan kalo kita rajin sholat insyaallah auto masuk syurga.. ðŸ˜</br>
+dan kalo kita rajin sholat insyaallah auto masuk syurga.. 😉
 
-amiinn ðŸ¤²ðŸ»</br>
+amiinn 🤲🏻
 
 # Apa ini ?
 
